@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴍɪsʜ ダ ᴍᴜsɪᴄ 」──
+    ⌯꯭ 𝐁 ꯭ᴧ꯭ ∂ ꯭𝛈 ꯭ᴧ ꯭ɱ꯭ 🥂꯭ 𝗫꯭ ꯭ᴅ ꯭꯭-//꯭- ִֶָ ꯭꯭꯭݁🥀꯭
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/j8v94c.jpg">
+  <img src="https://files.catbox.moe/0uir1v.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/j8v94c.jpg">
+  <img src="https://files.catbox.moe/0uir1v.jpg">
 </p>
 
 <h3 align="center">
