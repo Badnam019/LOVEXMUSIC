@@ -13,16 +13,16 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 1080))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
-OWNER_USERNAME = getenv("OWNER_USERNAME","mr_aman_077")
-CHAT_GROUP = getenv("CHAT_GROUP","https://t.me/utkarshquizr")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Alone_xdllll")
+CHAT_GROUP = getenv("CHAT_GROUP","https://t.me/frind_x_zone_group")
 OWNER_ID = int(getenv("OWNER_ID",7931228880))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/BADNAM07123/LOVEXMUSIC",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/Gk_Gs_with_Harshit")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/utkarshquizr")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/TEAM_BADNAM_SUPPORT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
@@ -49,18 +49,18 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/a65ffc1e766b6f2abb84a-f0c24b5908fc18ab80.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/j8v94c.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/btoca2.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/j8v94c.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/08x0no.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/j8v94c.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
