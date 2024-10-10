@@ -13,16 +13,16 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 1080))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
-OWNER_USERNAME = getenv("OWNER_USERNAME","Alone_xdllll")
-CHAT_GROUP = getenv("CHAT_GROUP","https://t.me/frind_x_zone_group")
-OWNER_ID = int(getenv("OWNER_ID",7931228880))
+OWNER_USERNAME = getenv("OWNER_USERNAME","MUNNA_KING_XD")
+CHAT_GROUP = getenv("CHAT_GROUP"https://t.me/+xWSq-TYHfF05ZWJl")
+OWNER_ID = int(getenv("OWNER_ID",5962944346))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/BADNAM07123/LOVEXMUSIC",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/TEAM_BADNAM_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/Love_dp_Sad_dp")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xWSq-TYHfF05ZWJl")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
@@ -49,12 +49,12 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/j8v94c.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/0x4pxp.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/btoca2.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/j8v94c.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/0x4pxp.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
