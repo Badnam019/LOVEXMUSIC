@@ -13,16 +13,16 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 1080))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002314361179))
-OWNER_USERNAME = getenv("OWNER_USERNAME","mr_aman_077")
-CHAT_GROUP = getenv("CHAT_GROUP", "https://t.me/flirtingworldchatting")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@Lieutenant_Harshit")
+CHAT_GROUP = getenv("CHAT_GROUP", "https://t.me/UtkarshQuizr")
 OWNER_ID = int(getenv("OWNER_ID",5962944346))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/BADNAM07123/LOVEXMUSIC",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/ISHQMOHABBATT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/flirtingworldchatting")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/UtkarshQuizr")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/UtkarshQuizr")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
@@ -49,7 +49,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/0x4pxp.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/soerb2.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/btoca2.jpg"
